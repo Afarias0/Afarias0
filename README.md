@@ -1,3 +1,6 @@
+## Sobre mim 
+
+
 - 👋 Olá, meu nome é **Amanda Farias**
 - :+1: Meu email de contato é amanda.mariaportode.farias@escola.pr.gov.br
 - 👀 Eu estou interessada em aprender a programar novas linguagens 
